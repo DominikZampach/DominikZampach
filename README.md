@@ -7,7 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/DominikZampach?tab=repositories](https://github.com/DominikZampach?tab=repositories)
 
-- 📫 How to reach me **dominik.zampach@seznam.cz**
+- 📫 How to reach me
+  - email: **dominik.zampach@seznam.cz**
+  - Instagram: **@dominik.zampach**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
