@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Dominik</h1>
-<h3 align="center">A highschool student from Czechia that loves programming</h3>
+<h3 align="center">A highschool student from Czechia that loves programming ❤️</h3>
 
 - 🔭 I’m currently working on [Spotify Downloader](https://github.com/DominikZampach/SpotifyDownloader)
 
-- 🌱 I’m currently learning **JS (NodeJS, Express.js, React), SQL**
+- 🌱 I’m currently learning **JS (NodeJS), SQL, Mobile development (React Native)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DominikZampach?tab=repositories](https://github.com/DominikZampach?tab=repositories)
 
