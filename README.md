@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on 🤫
 
-- 🌱 I’m currently learning **JS (NodeJS), SQL, Mobile development (React Native)**
+- 🌱 I’m currently learning **Mobile dev with Flutter (Dart)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DominikZampach?tab=repositories](https://github.com/DominikZampach?tab=repositories)
 
