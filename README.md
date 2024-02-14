@@ -10,10 +10,12 @@
 - Open to cooperation or work on projects 😉
 
 <h3 align="left">Connect with me:</h3>
+
 - 📫 How to reach me
   - email: **dominik.zampach@seznam.cz**
   - Instagram: **@dominik.zampach**
   - LinkedIn: [DominikZampach](https://www.linkedin.com/in/dominik-%C5%BEampach-388837245/)
+
 <p align="left">
 </p>
 
