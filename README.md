@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Dominik</h1>
 <h3 align="center">A highschool student from Czechia that loves programming ❤️</h3>
 
-- 🔭 I’m currently working on 🤫
+- 🔭 I’m currently working on [Pexeso game on mobile phones](https://github.com/DominikZampach/pexeso_project)
 
 - 🌱 I’m currently learning **Mobile dev with Flutter (Dart)**
 
