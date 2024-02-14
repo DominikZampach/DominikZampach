@@ -17,13 +17,15 @@
   - LinkedIn: [DominikZampach](https://www.linkedin.com/in/dominik-zampach/)
 
 <h3 align="left">Languages and Tools:</h3>
+<div align="center">
+  | Languages and databases | Frameworks | Tools |
+  | ----------------------- | ---------- | ----- |
+  | - Python                | - Flutter  | - Git |
+  | - Dart                  | - Flask    | - Adobe Photoshop + Ilustrator |
+  | - C#                    | - Express.js | - Figma |
+  | - Javascript            | - NodeJS   | - Postman |
+  | - HTML/CSS              | - Tailwind |         |
+  | - SQLite                |            |         |
+  | - MySQL                 |            |         |
 
-| Languages and databases | Frameworks | Tools |
-| ----------------------- | ---------- | ----- |
-| - Python                | - Flutter  | - Git |
-| - Dart                  | - Flask    | - Adobe Photoshop + Ilustrator |
-| - C#                    | - Express.js | - Figma |
-| - Javascript            | - NodeJS   | - Postman |
-| - HTML/CSS              | - Tailwind |         |
-| - SQLite                |            |         |
-| - MySQL                 |            |         |
+</div>
