@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Dominik</h1>
-<h3 align="center">A highschool student from Czechia that loves programming ❤️</h3>
+<h1 align="center">Hi, My name's Dominik</h1>
+<h3 align="center">Highschool student from Czechia that loves programming ❤️</h3>
 
 - 🔭 I’m currently working on [Pexeso game on mobile phones](https://github.com/DominikZampach/pexeso_project)
 
@@ -7,13 +7,14 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/DominikZampach?tab=repositories](https://github.com/DominikZampach?tab=repositories)
 
-- 📫 How to reach me
-  - email: **dominik.zampach@seznam.cz**
-  - Instagram: **@dominik.zampach**
-  - LinkedIn: [DominikZampach](https://www.linkedin.com/in/dominik-%C5%BEampach-388837245/)
+- Open to cooperation or work on projects 😉
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  - 📫 How to reach me
+  - email: **dominik.zampach@seznam.cz**
+  - Instagram: **@dominik.zampach**
+  - LinkedIn: [DominikZampach](https://www.linkedin.com/in/dominik-%C5%BEampach-388837245/)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
