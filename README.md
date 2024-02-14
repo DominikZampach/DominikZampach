@@ -1,5 +1,5 @@
-<h1 align="center">Hi, My name's Dominik</h1>
-<h3 align="center">Highschool student from Czechia that loves programming ❤️</h3>
+<h1 align="center">Hi, My name's Dominik Žampach</h1>
+<h3 align="center">I'm highschool student from Czechia that loves programming ❤️</h3>
 
 - 🔭 I’m currently working on [Pexeso game on mobile phones](https://github.com/DominikZampach/pexeso_project)
 
