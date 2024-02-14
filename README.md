@@ -16,7 +16,8 @@
   - Instagram: **@dominik.zampach**
   - LinkedIn: [DominikZampach](https://www.linkedin.com/in/dominik-zampach/)
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
+
 <div align="center">
   
   | Languages and databases | Frameworks | Tools |
