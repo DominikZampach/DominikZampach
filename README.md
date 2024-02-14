@@ -18,6 +18,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
+  
   | Languages and databases | Frameworks | Tools |
   | ----------------------- | ---------- | ----- |
   | - Python                | - Flutter  | - Git |
