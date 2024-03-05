@@ -28,6 +28,5 @@
   | - Javascript            | - NodeJS   | - Postman |
   | - HTML/CSS              | - Tailwind |         |
   | - SQLite                |            |         |
-  | - MySQL                 |            |         |
 
 </div>
