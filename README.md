@@ -1,7 +1,7 @@
 <h1 align="center">Hi, My name's Dominik Žampach</h1>
 <h3 align="center">I'm highschool student from Czechia that loves programming ❤️</h3>
 
-- 🔭 I’m currently working on [Invest Dashboard](https://github.com/DominikZampach/rocnikovka_investicni_dashboard)
+- 🔭 I’m currently working on [Habbit]([https://github.com/DominikZampach/rocnikovka_investicni_dashboard](https://github.com/DominikZampach/Habbit))
 
 - 🌱 I’m currently learning **Mobile dev with Flutter (Dart)**
 
@@ -23,8 +23,8 @@
   | Languages and databases | Frameworks | Tools |
   | ----------------------- | ---------- | ----- |
   | - Python                | - Flutter  | - Git |
-  | - Dart                  | - Flask    | - Adobe Photoshop + Ilustrator |
-  | - C#                    | - Express.js | - Figma |
+  | - Dart                  | - Flask    | - Affinity Photo + Designer |
+  | - C#                    | - Express.js | - Penpot |
   | - Javascript            | - NodeJS   | - Postman |
   | - HTML/CSS              | - Tailwind |         |
   | - SQLite                |            |         |
