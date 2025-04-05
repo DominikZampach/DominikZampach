@@ -1,5 +1,5 @@
-<h1 align="center">Hi, My name's Dominik Žampach</h1>
-<h3 align="center">I'm a highschool student from Czechia that loves programming ❤️</h3>
+<h1 align="center">Hello there 👋</h1>
+<h3 align="center">Highschool student from Czechia that likes to code a lot ❤️</h3>
 
 - 🔭 I’m currently working on application [Habbit](https://github.com/DominikZampach/Habbit)
 
