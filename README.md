@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/DominikZampach?tab=repositories](https://github.com/DominikZampach?tab=repositories)
 
-- Open to cooperation or work on projects 😉
+- Open to new challenges and creative collaborations 😉
 
 <h3 align="left">Connect with me:</h3>
 
