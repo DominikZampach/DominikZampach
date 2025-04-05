@@ -1,7 +1,7 @@
 <h1 align="center">Hi, My name's Dominik Žampach</h1>
 <h3 align="center">I'm a highschool student from Czechia that loves programming ❤️</h3>
 
-- 🔭 I’m currently working on application [Habbit]([https://github.com/DominikZampach/rocnikovka_investicni_dashboard](https://github.com/DominikZampach/Habbit))
+- 🔭 I’m currently working on application [Habbit](https://github.com/DominikZampach/Habbit)
 
 - 🌱 I’m currently learning **Mobile dev with Flutter (Dart)**
 
