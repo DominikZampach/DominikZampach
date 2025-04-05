@@ -22,8 +22,8 @@
   
   | Languages and databases | Frameworks | Tools |
   | ----------------------- | ---------- | ----- |
-  | - Python                | - Flutter  | - Git |
-  | - Dart                  | - Flask    | - Affinity Photo + Designer |
+  | - Dart                  | - Flutter  | - Git |
+  | - Python                | - Flask    | - Affinity Photo + Designer |
   | - C#                    | - Express.js | - Penpot |
   | - Javascript            | - NodeJS   | - Postman |
   | - HTML/CSS              | - Tailwind |         |
