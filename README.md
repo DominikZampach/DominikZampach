@@ -13,7 +13,7 @@
 
 - 📫 How to reach me
   - email: **dominik.zampach@seznam.cz**
-  - Instagram: **@dominik.zampach**
+  - Instagram: [**@dominik.zampach**](https://www.instagram.com/dominik.zampach/)
   - LinkedIn: [DominikZampach](https://www.linkedin.com/in/dominik-zampach/)
 
 <h3 align="center">Languages and Tools:</h3>
