@@ -25,8 +25,8 @@
   | - Dart                  | - Flutter  | - Git |
   | - Python                | - Flask    | - Affinity Photo + Designer |
   | - C#                    | - Express.js | - Penpot |
-  | - Javascript            | - NodeJS   | - Postman |
+  | -  SQLite          | - NodeJS   | - Postman |
   | - HTML/CSS              | - Tailwind | - Firebase (FireCloud)        |
-  | - SQLite                |            |         |
+  | - Javascript                 |            |         |
 
 </div>
