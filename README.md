@@ -26,7 +26,7 @@
   | - Python                | - Flask    | - Affinity Photo + Designer |
   | - C#                    | - Express.js | - Penpot |
   | - Javascript            | - NodeJS   | - Postman |
-  | - HTML/CSS              | - Tailwind |         |
+  | - HTML/CSS              | - Tailwind | - Firebase (FireCloud)        |
   | - SQLite                |            |         |
 
 </div>
