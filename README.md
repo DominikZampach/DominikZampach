@@ -27,6 +27,5 @@
   | - C#                    | - | - Penpot |
   | -  HTML/CSS         | | - Postman |
   | -     Javascript           | | - Firebase        |
-  |                 |            |         |
 
 </div>
