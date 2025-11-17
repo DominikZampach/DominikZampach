@@ -24,7 +24,7 @@
   | ----------------------- | ---------- | ----- |
   | - Dart                  | - Flutter  | - Git |
   | - Python                | - Flask    | - Affinity|
-  | - C#                    | - | - Penpot |
+  | - C#                    | | - Penpot |
   | -  HTML/CSS         | | - Postman |
   | -     Javascript           | | - Firebase        |
 
