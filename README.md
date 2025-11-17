@@ -23,10 +23,10 @@
   | Languages and databases | Frameworks | Tools |
   | ----------------------- | ---------- | ----- |
   | - Dart                  | - Flutter  | - Git |
-  | - Python                | - Flask    | - Affinity Photo + Designer |
-  | - C#                    | - Express.js | - Penpot |
-  | -  SQLite          | - NodeJS   | - Postman |
-  | - HTML/CSS              | - Tailwind | - Firebase (FireCloud)        |
-  | - Javascript                 |            |         |
+  | - Python                | - Flask    | - Affinity|
+  | - C#                    | - | - Penpot |
+  | -  HTML/CSS         | | - Postman |
+  | -     Javascript           | | - Firebase        |
+  |                 |            |         |
 
 </div>
